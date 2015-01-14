@@ -1,1 +1,56 @@
 /*OffWorld CSS*/
+body {
+	font-size: 28px;
+	font-family: 'Aldrich';
+}
+
+body a:hover {
+    text-decoration: none;
+    color: #28B2F7;
+}
+
+.bannerheight {
+    max-height: 90px;
+    overflow: hidden;
+}
+.fuckbootstrap  {
+	color: #28B2F7;
+	font-family: 'Aldrich';
+	font-size: 36px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.fuckbootstrap2 {
+    font-size: 28px;
+    color: #28B2F7;
+    font-family: 'Aldrich';
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.fuckbootstrapp {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.smallpic {
+	max-height: 80px;
+}
+
+
+.backpic {
+    background-image: url(../img/Blade-Runner-Eye.jpg);
+    background-size: cover;
+    /*padding-bottom: 1000px;*/
+}
+
+.clickme a {
+    font-size: 26px;
+    color: #28B2F7;
+    font-family: 'Aldrich';
+}
+
+.clickme a:hover {
+    background: url(../img/unicorn.png);
+}
